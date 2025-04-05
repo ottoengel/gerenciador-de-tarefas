@@ -21,7 +21,14 @@ Aplicação feita com **Vue 3 + Vite + Tailwind CSS**, que permite criar, editar
 
 ## 📂 Estrutura do Projeto
 
-src/ ├── components/ # Componentes reutilizáveis │ ├── Cards.vue # Exibe as tarefas em formato de card │ ├── ModalTarefa.vue # Modal para criar/editar tarefas ├── types/ # Definições de tipos TypeScript │ ├── Tarefa.ts # Tipo da Tarefa ├── App.vue # Componente raiz da aplicação ├── Gerenciador.vue # Tela principal do gerenciador de tarefas
+src/
+├── components/ # Componentes reutilizáveis
+│ ├── Cards.vue # Exibe as tarefas em formato de card
+│ ├── ModalTarefa.vue # Modal para criar/editar tarefas
+├── types/ # Definições de tipos TypeScript
+│ ├── Tarefa.ts # Tipo da Tarefa
+├── App.vue # Componente raiz da aplicação
+├── Gerenciador.vue # Tela principal do gerenciador de tarefas
 
 ## 🛠️ Instalação
 
